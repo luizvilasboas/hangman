@@ -4,7 +4,7 @@ Hangman is a single player guessing game. You try to guess by suggesting letters
 
 ## Demo
 
-![Demo of hangman](https://gitlab.com/olooeez/hangman/-/raw/main/img/demo.png)
+![Demo of hangman](https://github.com/luizvilasboas/hangman/blob/main/img/demo.png?raw=true)
 
 ## Usage
 
@@ -23,7 +23,7 @@ You can use the following options to use hangman:
 To run hangman, you must clone this repository with the following command:
 
 ```
-git clone https://gitlab.com/olooeez/hangman.git
+git clone https://github.com/luizvilasboas/hangman.git
 ```
 
 #### Enter the cloned repository
@@ -57,7 +57,7 @@ ruby lib/hangman.rb
 To run the program in a docker container, clone the repository to your machine first:
 
 ```
-git clone https://gitlab.com/olooeez/hangman.git
+git clone https://github.com/luizvilasboas/hangman.git
 ```
 
 #### Enter the cloned repository
@@ -95,4 +95,4 @@ If you would like to contribute to this project, please feel free to open a merg
 
 ## License
 
-This project is licensed under the [MIT](https://gitlab.com/olooeez/hangman/-/blob/main/LICENSE) License. See the LICENSE file for details.
+This project is licensed under the [MIT](https://github.com/luizvilasboas/hangman/blob/main/LICENSE) License. See the LICENSE file for details.
